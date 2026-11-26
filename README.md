@@ -2,7 +2,7 @@
 <!--                        HEADER BANNER                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1b27&height=200&section=header&text=Sebastian%20Mauricio&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Django%20Enthusiast%20•%20Founder%20of%20WhatsBizPro&descAlignY=58&descSize=16" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1b27&height=200&section=header&text=Sebastian%20Mauricio&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Django%20Enthusiast%20•%20Founder%20of%20Bizco&descAlignY=58&descSize=16" alt="header"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TYPING ANIMATION                          -->
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+SaaS+that+solves+real+problems;Backend+Developer+%7C+Django+Enthusiast;REST+APIs+%7C+Stripe+%7C+AI+Automation;Founder+%40+WhatsBizPro;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+SaaS+that+solves+real+problems;Backend+Developer+%7C+Django+Enthusiast;AI+employees+for+WhatsApp;REST+APIs+%7C+Stripe+%7C+AI+Automation;Founder+%40+Bizco.pro;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,8 +23,8 @@
   <a href="https://github.com/SebastianMou?tab=followers">
     <img src="https://img.shields.io/github/followers/SebastianMou?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
   </a>
-  <a href="https://whatsbizpro.org">
-    <img src="https://img.shields.io/badge/WhatsBizPro-Live-brightgreen?style=for-the-badge&logo=rocket" alt="WhatsBizPro" />
+  <a href="https://bizco.pro">
+    <img src="https://img.shields.io/badge/Bizco-Live%20(Beta)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bizco" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 class SebastianMauricio:
     def __init__(self):
         self.role      = "Frontend + Backend = FullStack Developer Bitch"
-        self.building  = "WhatsBizPro: CRM & Business Automation"
+        self.building  = "Bizco: AI employees for WhatsApp + a CRM that fills itself"
         self.learning  = ["Advanced Django", "REST APIs",
                           "Stripe Integrations", "AI Automation"]
         self.stack     = ["Django", "DRF", "MySQL", "Stripe", "Bootstrap"]
@@ -51,10 +51,10 @@ class SebastianMauricio:
         print("Thanks for stopping by => let's build something 🔥")
 ```
 
-- 🔭 &nbsp;Currently building **[WhatsBizPro](https://whatsbizpro.org)**: a CRM & business automation platform
+- 🔭 &nbsp;Currently building **[Bizco](https://bizco.pro)**: AI employees that answer customers on WhatsApp, plus a CRM that fills itself
 - 🌱 &nbsp;Leveling up in **Advanced Django, REST APIs, Stripe & AI Automation**
 - 👯 &nbsp;Open to collaborating on **SaaS and Django projects**
-- 💬 &nbsp;Ask me about **Django, APIs, CRM Systems, Backend Development & SaaS**
+- 💬 &nbsp;Ask me about **Django, APIs, CRM Systems, WhatsApp Cloud API, Backend Development & SaaS**
 - ⚡ &nbsp;Passionate about **creating software that solves real business problems**
 
 <br clear="right"/>
@@ -89,24 +89,39 @@ class SebastianMauricio:
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>🤖 WhatsBizPro</h3>
-      <p>A business automation & CRM platform that helps companies manage
-      customers, sales, and operations more efficiently - built to turn
-      messy workflows into clean, automated pipelines.</p>
+      <h3>🤖 Bizco <sup>BETA</sup></h3>
+      <p><b>AI employees for your WhatsApp, with a CRM that fills itself.</b></p>
+      <p>Bizco connects to a business's own WhatsApp Business number through Meta's official
+      Cloud API. AI employees answer customers 24/7, book appointments and room stays,
+      take orders, send catalog photos and understand voice notes. When a chat needs a
+      person, they hand it to the team, who work every chat from one shared inbox.</p>
+      <ul>
+        <li>🧑‍💼 AI employees with their own role, tone, hours and rules, plus a private test chat</li>
+        <li>📅 Bookings that check the real calendar, with two-way Google Calendar sync</li>
+        <li>💬 Shared team inbox: quick replies, scheduled messages, search and export</li>
+        <li>📇 CRM that fills itself from every conversation: fields, notes, pipeline and deal value</li>
+        <li>💳 Plans billed through Stripe, with extra reply packs payable by card or OXXO</li>
+        <li>🌎 Spanish and English, built for small businesses in Mexico</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <a href="https://whatsbizpro.org">
-        <img src="https://img.shields.io/badge/Visit%20Live%20Site-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      <a href="https://bizco.pro">
+        <img src="https://img.shields.io/badge/Visit%20bizco.pro-25D366?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <a href="https://bizco.pro/help/">
+        <img src="https://img.shields.io/badge/Help%20center-0e75b6?style=for-the-badge&logo=bookstack&logoColor=white" />
       </a>
     </td>
     <td width="40%" valign="middle" align="center">
-      <a href="https://whatsbizpro.org">
-        <img width="180" src="https://res.cloudinary.com/dgzhlipft/image/upload/v1757828536/whatsbizproLogoSquare_rithsi.png" alt="WhatsBizPro logo"/>
+      <a href="https://bizco.pro">
+        <img width="180" src="https://res.cloudinary.com/ikfgedcc/image/upload/v1792277902/BizcoLogoSquare.png" alt="Bizco logo"/>
       </a>
     </td>
   </tr>
@@ -139,8 +154,8 @@ class SebastianMauricio:
 
 ## 🎯 2026 Goals
 
-- 🤖 &nbsp;Launch new AI-powered features in **WhatsBizPro**
-- 📈 &nbsp;Grow WhatsBizPro users & subscriptions
+- 🤖 &nbsp;Take **Bizco** out of beta and ship more AI employee skills
+- 📈 &nbsp;Grow Bizco users & subscriptions
 - 🌍 &nbsp;Contribute more to **open-source projects**
 - 🏗️ &nbsp;Master **scalable SaaS architecture**
 - 💡 &nbsp;Keep building software that helps businesses succeed
@@ -158,8 +173,11 @@ class SebastianMauricio:
   <a href="mailto:Sebastian_Mou@protonmail.com">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://whatsbizpro.org" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsBizPro-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" />
+  <a href="https://bizco.pro" target="_blank">
+    <img src="https://img.shields.io/badge/Bizco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/Bizco.pro/" target="_blank">
+    <img src="https://img.shields.io/badge/Bizco%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
